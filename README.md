@@ -6,10 +6,10 @@ The scripts are made with <b>KQL</b> (query language to be used in Azure on the 
 
 In this lab I've created a vulnerable and exposed (to pretty much anything) Windows Virtual Machine in Azure, aka Honeypot, then I've displayed (by using various Azure tools and log extractions) all the attempted brute force attacks towards my Virtual Machine on a world map. <br /> <br />
 
-I let the Virtual Machine run defenseless for less than 1 hour, and yet all these attacks happened. If you let it run for 24 hours or more, you'll probably see thousands upon thousands of attempts. It truly makes you understand how important security is!
+I let the Virtual Machine run defenseless for less than 1 hour, and yet all these attacks happened. If you let it run for 24 hours or more, you'll probably see thousands upon thousands of attempts. It truly makes you understand how important security is with anything you do or have on the internet. 
 
 <br />
 
-<h3>🗺 Microsoft Sentinel live attacks Map: </h3>
+<h3>🗺 Microsoft Sentinel live attacks Map: </h3>  <br />
 
 ![map-image](labsentinel10.png)
