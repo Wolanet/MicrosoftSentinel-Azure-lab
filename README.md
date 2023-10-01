@@ -12,4 +12,4 @@ I let the Virtual Machine run defenseless for less than 1 hour, and yet all thes
 
 <h3> Microsoft Sentinel live attacks Map: </h3>
 
-![map-image](image%20samples/---)
+![map-image](labsentinell0.png)
