@@ -1,4 +1,4 @@
-<h2> Microsoft Sentinel lab with a Cloud-based (Azure) Honeypot </h2>
+<h2>☄ Microsoft Sentinel lab with a Cloud-based (Azure) Honeypot </h2>
 <br />
 
 This repo is for the scripts used in the  [<b>Microsoft Sentinel lab in Azure</b>](https://---) LINKKK   /// , you can read more about it on my website where I explain step-by-step how to implement all the tools necessary. <br />
@@ -10,6 +10,6 @@ I let the Virtual Machine run defenseless for less than 1 hour, and yet all thes
 
 <br />
 
-<h3> Microsoft Sentinel live attacks Map: </h3>
+<h3>🗺 Microsoft Sentinel live attacks Map: </h3>
 
-![map-image](labsentinell0.png)
+![map-image](labsentinel10.png)
