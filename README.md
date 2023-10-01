@@ -1,4 +1,4 @@
-<h2>☄ Microsoft Sentinel lab with a Cloud-based (Azure) Honeypot </h2>
+<h2>☄ Microsoft Sentinel with a Cloud-based (Azure) Honeypot lab </h2>
 <br />
 
 This repo is for the scripts used in the  [<b>Microsoft Sentinel lab in Azure</b>](https://---) LINKKK   /// , you can read more about it on my website where I explain step-by-step how to implement all the tools necessary. <br />
