@@ -1,7 +1,7 @@
-<h2>☄ Microsoft Sentinel Azure Lab with Cloud-based Honeypot </h2>
+<h2>☄ Microsoft Sentinel (SIEM) Azure Lab with Cloud-based Honeypot </h2>
 <br />
 
-This repo is for the scripts used in the [<b>Microsoft Sentinel Azure Lab with Cloud-based Honeypot</b>](https://---) , you can read more about it on my website where I explain step-by-step how to implement all the tools necessary. <br />
+This repo is for the scripts used in the [<b>Microsoft Sentinel (SIEM) Azure Lab</b>](https://tektsunami.com/alabsentinel.html) , you can read more about it on my website where I explain step-by-step how to implement all the tools necessary. <br />
 The scripts are made with <b>KQL</b> (query language to be used in Azure on the Log Analytics Workspace and Microsoft Sentinel dashbaord) and with <b>Powershell</b> (to be used in the Virtual Machine). <br /> <br />
 
 In this lab I've created a vulnerable and exposed (to pretty much anything) Windows Virtual Machine in Azure, aka Honeypot, then I've displayed (by using various Azure tools and log extractions) all the attempted brute force attacks towards my Virtual Machine on a world map. <br /> <br />
